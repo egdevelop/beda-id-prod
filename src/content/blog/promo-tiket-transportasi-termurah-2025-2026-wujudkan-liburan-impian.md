@@ -4,7 +4,6 @@ pubDate: 2025-11-30T15:54:27.932Z
 description: Panduan lengkap berburu promo tiket pesawat, kereta, bus, dan kapal
   termurah untuk perjalanan 2025-2026. Tips jitu agar liburan impianmu jadi
   hemat!
-featuredImage: /image/promo-tiket-transportasi-termurah-2025-2026-wujudkan-liburan-impian-1764518066548-d66f0a.webp
 author:
   name: Author
 category: Lifestyle
@@ -15,7 +14,8 @@ tags:
   - tiket-bus
   - tips-traveling
   - liburan-hemat
-draft: true
+featuredImage: /image/promo-tiket-transportasi-termurah-2025-2026-wujudkan-liburan-impian-1764518066548-d66f0a.webp
+featured: true
 ---
 
 Siapa sih yang nggak punya daftar destinasi impian? Mungkin kamu ingin merasakan salju pertama di Jepang, menyelami keindahan bawah laut Raja Ampat, atau sekadar napak tilas di kota-kota bersejarah di Eropa. Tapi, seringkali bayangan biaya transportasi yang mahal langsung membuat kita ciut dan menunda rencana.
