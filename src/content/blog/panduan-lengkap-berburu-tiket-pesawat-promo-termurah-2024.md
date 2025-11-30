@@ -1,5 +1,5 @@
 ---
-title: Panduan Lengkap Berburu Tiket Pesawat Promo Termurah 2024
+title: Panduan Lengkap Berburu Tiket Pesawat Promo Termurah 2025
 pubDate: 2025-11-30
 description: Mau liburan tapi budget terbatas? Jangan khawatir! Simak panduan
   lengkap berburu tiket pesawat promo dan temukan harga tiket pesawat termurah.
