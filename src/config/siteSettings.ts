@@ -285,9 +285,9 @@ const siteConfig: SiteConfig = {
       googleSiteVerification: '',
       bingSiteVerification: '',
       googleAnalyticsId: '',
-      author: 'Riven Team',
-      publisher: 'Riven',
-      copyrightYear: '2024',
+      author: 'Beda.id Team',
+      publisher: 'Beda.id',
+      copyrightYear: '2025',
     },
     social: {
       twitter: 'https://twitter.com/beda.id',
