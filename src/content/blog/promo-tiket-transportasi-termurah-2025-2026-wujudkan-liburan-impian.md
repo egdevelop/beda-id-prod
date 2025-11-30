@@ -14,9 +14,10 @@ tags:
   - tiket-bus
   - tips-traveling
   - liburan-hemat
-featuredImage: /image/promo-tiket-transportasi-termurah-2025-2026-wujudkan-liburan-impian-1764518066548-d66f0a.webp
+featuredImage: /image/promo-tiket-transportasi-termurah-2025-2026-wujudkan-liburan-impian-1764518066548-d66f0a-optimized-webp-1764524321265-896e13.webp
 featured: true
 ---
+
 
 Siapa sih yang nggak punya daftar destinasi impian? Mungkin kamu ingin merasakan salju pertama di Jepang, menyelami keindahan bawah laut Raja Ampat, atau sekadar napak tilas di kota-kota bersejarah di Eropa. Tapi, seringkali bayangan biaya transportasi yang mahal langsung membuat kita ciut dan menunda rencana.
 
