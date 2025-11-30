@@ -1,10 +1,9 @@
 ---
 title: "Promo Kereta Api Mudik 2025: Panduan Lengkap Dapat Tiket Murah KAI"
-pubDate: 2025-11-30T15:07:13.242Z
+pubDate: 2025-11-30
 description: Siap-siap war tiket mudik 2025? Dapatkan bocoran promo kereta api
   KAI, tips jitu berburu tiket kereta murah, dan strategi anti kehabisan.
   Wujudkan mudik hemat!
-featuredImage: /image/promo-kereta-api-mudik-2025-panduan-lengkap-dapat-tiket-murah-kai-1764515231692-ca73b0.webp
 author:
   name: Author
 category: Travel
@@ -15,7 +14,8 @@ tags:
   - tips-traveling
   - lebaran-2025
   - beda-id
-draft: true
+featuredImage: /image/promo-kereta-api-mudik-2025-panduan-lengkap-dapat-tiket-murah-kai-1764515231692-ca73b0.webp
+featured: true
 ---
 
 Siapa di sini yang setiap tahun selalu deg-degan pas momen 'war tiket' kereta api buat mudik? Saya jamin, hampir semua dari kita pernah merasakan adrenalinnya. Layar laptop sudah siap, jari sudah di atas tombol *refresh*, dan koneksi internet dipastikan paling kencang. Begitu jam 12 malam tiba, *klik, klik, klik*... dan 10 menit kemudian, tiket tujuan favorit ludes tak bersisa. Duh, rasanya campur aduk antara kesal dan mau menyerah.
