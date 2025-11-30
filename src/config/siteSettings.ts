@@ -298,9 +298,9 @@ const siteConfig: SiteConfig = {
       youtube: '',
     },
     contact: {
-      email: 'hello@riven.com',
-      phone: '',
-      address: '',
+      email: 'contact@beda.id',
+      phone: '+6281535272061',
+      address: 'Jl. KH. Tubagus Abdullah No.4, Sukaasih, Kabupaten Tasikmalaya',
     },
     features: {
       enableSearch: true,
