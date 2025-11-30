@@ -5,7 +5,7 @@ pubDate: 2025-11-30T16:14:10.969Z
 description: Cari tiket kereta murah untuk mudik 2025? Temukan strategi, jadwal
   promo KAI, dan tips jitu berburu tiket kereta api agar perjalanan Anda lebih
   hemat.
-featuredImage: /image/panduan-lengkap-promo-kereta-api-mudik-2025-strategi-jitu-dapatkan-tiket-kai-murah-1764519247947-89bf62.webp
+featuredImage: /image/panduan-lengkap-promo-kereta-api-mudik-2025-strategi-jitu-dapatkan-tiket-kai-murah-1764519247947-89bf62-optimized-webp-1764524297598-0218e3.webp
 author:
   name: Author
 category: Lifestyle
@@ -18,6 +18,7 @@ tags:
   - beda-id
 featured: true
 ---
+
 
 ## Pendahuluan: Memulai Perburuan Tiket Mudik Lebih Awal
 
