@@ -1,6 +1,6 @@
 ---
 title: "Promo Tiket Murah 2025: Cara Cerdas Hemat Transportasi!"
-pubDate: 2025-11-30T12:00:49.312Z
+pubDate: 2025-11-30
 description: Jangan lewatkan promo tiket murah 2025! Dapatkan tiket bus, kereta,
   pesawat, dan kapal dengan harga terbaik. Tips & trik perjalanan hemat di sini!
 tags:
@@ -10,6 +10,10 @@ tags:
   - tiket-pesawat
   - tiket-kapal
 draft: true
+featuredImage: /image/7b607089-21b9-4712-bb62-b46579ea4ad8-1762936943096.png
+author:
+  name: Beda.id
+category: Promo
 ---
 
 ## Promo Tiket Murah 2025: Rencanakan Perjalanan Impianmu dengan Hemat!
