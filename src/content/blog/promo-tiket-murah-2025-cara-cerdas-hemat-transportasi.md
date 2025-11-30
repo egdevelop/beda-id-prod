@@ -9,7 +9,6 @@ tags:
   - tiket-kereta
   - tiket-pesawat
   - tiket-kapal
-draft: true
 featuredImage: /image/7b607089-21b9-4712-bb62-b46579ea4ad8-1762936943096.png
 author:
   name: Beda.id
