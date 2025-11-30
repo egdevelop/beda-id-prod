@@ -4,7 +4,7 @@ pubDate: 2025-11-30T16:16:09.919Z
 description: Dapatkan update promo tiket transportasi harian terlengkap untuk
   2025-2026. Temukan strategi tiket murah pesawat, kereta, & bus di seluruh
   Indonesia.
-featuredImage: /image/update-harian-promo-tiket-transportasi-indonesia-2025-2026-1764519367677-b0c51d.webp
+featuredImage: /image/update-harian-promo-tiket-transportasi-indonesia-2025-2026-1764519367677-b0c51d-optimized-webp-1764524268748-5da2a8.webp
 author:
   name: Author
 category: Business
@@ -17,6 +17,7 @@ tags:
   - hemat-biaya
 featured: true
 ---
+
 
 ## Pendahuluan: Navigasi Cerdas di Era Harga Tiket yang Dinamis
 
