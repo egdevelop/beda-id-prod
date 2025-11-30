@@ -3,7 +3,7 @@ title: "Panduan Promo Tiket 2025-2026: Bus, Kereta, Pesawat & Kapal"
 pubDate: 2025-11-30T16:15:09.790Z
 description: Temukan perbandingan promo tiket murah 2025-2026 untuk bus, kereta,
   pesawat, dan kapal. Analisis mendalam untuk perjalanan bisnis & liburan Anda.
-featuredImage: /image/panduan-promo-tiket-2025-2026-bus-kereta-pesawat-kapal-1764519307319-c09d46.webp
+featuredImage: /image/panduan-promo-tiket-2025-2026-bus-kereta-pesawat-kapal-1764519307319-c09d46-optimized-webp-1764524281160-304909.webp
 author:
   name: Author
 category: Business
@@ -16,6 +16,7 @@ tags:
   - beda-id
 featured: true
 ---
+
 
 ## Pendahuluan: Navigasi Cerdas dalam Lanskap Perjalanan Bisnis 2025-2026
 
