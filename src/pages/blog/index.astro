@@ -8,11 +8,16 @@ import AdPlacement from '../../components/AdPlacement.astro';
 import { getCollection } from 'astro:content';
 
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
-const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const featuredPost = sortedPosts.find(post => post.data.featured) || sortedPosts[0];
-const otherPosts = sortedPosts.filter(post => post !== featuredPost);
+const sortedPosts = [...allPosts].sort((a, b) => 
+  new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
+);
 
-const categories = [...new Set(allPosts.map(post => post.data.category))];
+const featuredPosts = sortedPosts.filter(post => post.data.featured);
+const featuredPost = featuredPosts.length > 0 ? featuredPosts[0] : sortedPosts[0];
+
+const otherPosts = sortedPosts.filter(post => post.id !== featuredPost.id);
+
+const categories = [...new Set(sortedPosts.map(post => post.data.category))];
 ---
 
 <BaseLayout title="Blog" description="Explore all our blog posts covering technology, design, research, and more.">
