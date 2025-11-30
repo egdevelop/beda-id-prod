@@ -1,6 +1,6 @@
 ---
 interface Props {
-  type: 'horizontal' | 'vertical' | 'square' | 'in-article';
+  type: 'horizontal' | 'vertical' | 'square' | 'in-article' | 'sidebar';
   slot?: string;
 }
 
@@ -8,7 +8,8 @@ const { type, slot = '' } = Astro.props;
 
 const sizeClasses = {
   'horizontal': 'w-full h-24 md:h-28',
-  'vertical': 'w-full h-64 md:w-[300px] md:h-[600px]',
+  'vertical': 'w-[160px] h-[600px]',
+  'sidebar': 'w-[160px] h-[600px]',
   'square': 'w-full max-w-[336px] h-[280px]',
   'in-article': 'w-full h-32'
 };
