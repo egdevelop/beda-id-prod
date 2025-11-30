@@ -3,7 +3,7 @@ title: "Strategi Wisata Hemat: Maksimalkan Promo Transportasi di beda.id"
 pubDate: 2025-11-30T16:17:04.656Z
 description: Cari tiket promo untuk wisata hemat? Pelajari cara menekan biaya
   liburan hingga 40% dengan strategi promo transportasi eksklusif dari beda.id.
-featuredImage: /image/strategi-wisata-hemat-maksimalkan-promo-transportasi-di-beda-id-1764519422252-7db865.webp
+featuredImage: /image/strategi-wisata-hemat-maksimalkan-promo-transportasi-di-beda-id-1764519422252-7db865-optimized-webp-1764524247271-ebb232.webp
 author:
   name: Author
 category: Lifestyle
@@ -16,6 +16,7 @@ tags:
   - tips-liburan
 featured: true
 ---
+
 
 ## Pendahuluan: Paradoks Liburan Profesional Modern
 
