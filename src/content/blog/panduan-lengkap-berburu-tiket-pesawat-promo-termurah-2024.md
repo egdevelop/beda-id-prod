@@ -14,8 +14,8 @@ tags:
   - travel-hemat
 featuredImage: /image/hero-image-1.png
 category: Promo
-featured: true
 ---
+
 
 Pernahkah Anda melamun di depan laptop, membayangkan liburan ke pantai berpasir putih atau kota bersejarah, tapi langsung ciut saat melihat **harga tiket pesawat**? Rasanya seperti mimpi yang harus dikubur dalam-dalam. Tenang, Anda tidak sendirian! Banyak dari kita yang merasa tiket pesawat adalah penghalang terbesar untuk mewujudkan liburan impian.
 
