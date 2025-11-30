@@ -4,7 +4,6 @@ pubDate: 2025-11-30T15:58:55.317Z
 description: Cari promo tiket bus murah untuk 2025-2026? Temukan panduan lengkap
   berburu diskon dan kode promo travel bus di beda.id. Hemat perjalananmu
   sekarang!
-featuredImage: /image/cara-jitu-berburu-promo-tiket-bus-murah-di-beda-id-2025-2026-1764518333996-ad9404.webp
 author:
   name: Author
 category: Travel
@@ -15,7 +14,8 @@ tags:
   - beda-id
   - panduan-travel
   - liburan-hemat
-draft: true
+featuredImage: /image/cara-jitu-berburu-promo-tiket-bus-murah-di-beda-id-2025-2026-1764518333996-ad9404.webp
+featured: true
 ---
 
 ## Pendahuluan: Mimpi Liburan Hemat di Depan Mata!
