@@ -4,7 +4,7 @@ pubDate: 2025-11-30T16:19:15.212Z
 description: Analisis mendalam tren promo tiket transportasi 2025-2026 di
   Indonesia. Pelajari strategi mendapatkan tiket murah untuk bus, kereta,
   pesawat, dan kapal.
-featuredImage: /image/tren-promo-tiket-transportasi-2025-2026-strategi-cerdas-harga-terbaik-1764519552690-4d472b.webp
+featuredImage: /image/tren-promo-tiket-transportasi-2025-2026-strategi-cerdas-harga-terbaik-1764519552690-4d472b-optimized-webp-1764524155988-049297.webp
 author:
   name: Author
 category: Business
@@ -17,6 +17,7 @@ tags:
   - strategi-traveling
 featured: true
 ---
+
 
 ## Pendahuluan: Lanskap Baru Perjalanan di Era Digital
 
