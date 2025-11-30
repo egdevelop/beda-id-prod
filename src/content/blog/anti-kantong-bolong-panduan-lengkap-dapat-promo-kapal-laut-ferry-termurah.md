@@ -1,11 +1,11 @@
 ---
 title: Anti Kantong Bolong! Panduan Lengkap Dapat Promo Kapal Laut & Ferry Termurah
-pubDate: 2025-11-30T00:00:00.000Z
+pubDate: 2025-11-30T15:52:09.118Z
 description: Mau liburan hemat? Temukan cara mendapatkan tiket kapal murah dan
   ferry promo termurah. Ikuti panduan lengkap kami agar perjalanan laut Anda
   lebih menyenangkan!
 author:
-  name: Beda.id
+  name: Beda Blogger
 category: Travel
 tags:
   - tiket-kapal-murah
@@ -17,6 +17,7 @@ tags:
 featuredImage: /image/anti-kantong-bolong-panduan-lengkap-dapat-promo-kapal-laut-ferry-termurah-1764515410184-12a6cd.webp
 featured: true
 ---
+
 
 
 ## Menyeberang Pulau Tanpa Bikin Dompet Pilu, Emang Bisa?
