@@ -1,5 +1,5 @@
 ---
-title: Cara Jitu Dapat Promo Tiket Bus Terbaru di beda.id (2024)
+title: Cara Jitu Dapat Promo Tiket Bus Terbaru di beda.id
 pubDate: 2025-11-30
 description: Cari tiket bus murah? Temukan cara jitu berburu promo bus terbaru
   di beda.id. Panduan lengkap untuk travel bus hemat dan nyaman. Baca sekarang!
@@ -10,7 +10,6 @@ tags:
   - beda-id
   - panduan-travel
   - hemat-budget
-draft: true
 featuredImage: /image/hero-image.png
 author:
   name: Beda.id
