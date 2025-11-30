@@ -7,9 +7,14 @@ import { getCollection } from 'astro:content';
 import { getContentDefaults, getSiteSettings } from '../config/siteSettings';
 
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
-const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const featuredPost = sortedPosts.find(post => post.data.featured) || sortedPosts[0];
-const recentPosts = sortedPosts.filter(post => post !== featuredPost).slice(0, 6);
+const sortedPosts = [...allPosts].sort((a, b) => 
+  new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
+);
+
+const featuredPosts = sortedPosts.filter(post => post.data.featured);
+const featuredPost = featuredPosts.length > 0 ? featuredPosts[0] : sortedPosts[0];
+
+const recentPosts = sortedPosts.filter(post => post.id !== featuredPost.id).slice(0, 6);
 
 const { homepage } = getContentDefaults();
 const { features } = getSiteSettings();
