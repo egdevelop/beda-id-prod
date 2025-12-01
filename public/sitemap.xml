@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.beda.id</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.beda.id/blog</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.beda.id/blog/anti-kantong-bolong-panduan-lengkap-dapat-promo-kapal-laut-ferry-termurah</loc>
     <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beda.id/blog/beda-id-2025-2026-revolusi-agregator-promo-tiket-transportasi</loc>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -27,6 +33,12 @@
   <url>
     <loc>https://www.beda.id/blog/panduan-cerdas-berburu-tiket-pesawat-promo-2025-2026</loc>
     <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beda.id/blog/panduan-cerdas-manfaatkan-notifikasi-promo-beda-id-untuk-tiket-termurah</loc>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -74,31 +86,31 @@
   </url>
   <url>
     <loc>https://www.beda.id/about</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beda.id/contact</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beda.id/disclaimer</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beda.id/privacy</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beda.id/terms</loc>
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
