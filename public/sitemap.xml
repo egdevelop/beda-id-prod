@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.beda.id</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.beda.id/blog</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -55,6 +55,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.beda.id/blog/promo-tiket-transportasi-backpacker-strategi-hemat-dengan-beda-id</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.beda.id/blog/promo-tiket-transportasi-termurah-2025-2026-wujudkan-liburan-impian</loc>
     <lastmod>2025-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -63,6 +69,24 @@
   <url>
     <loc>https://www.beda.id/blog/raih-tiket-promo-terbaik-alasan-wajib-cek-beda-id-sebelum-beli</loc>
     <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beda.id/blog/strategi-ahli-cara-mendapatkan-promo-tiket-airasia-termurah</loc>
+    <lastmod>2025-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beda.id/blog/strategi-cerdas-cara-cek-bandingkan-promo-tiket-terbaik-di-beda-id</loc>
+    <lastmod>2025-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.beda.id/blog/strategi-jitu-traveling-murah-panduan-promo-bus-kereta</loc>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -85,32 +109,38 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.beda.id/blog/update-promo-airasia-2025-rute-populer-harga-terbaik</loc>
+    <lastmod>2025-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.beda.id/about</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beda.id/contact</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beda.id/disclaimer</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beda.id/privacy</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.beda.id/terms</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
